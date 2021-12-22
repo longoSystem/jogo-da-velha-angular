@@ -1,6 +1,11 @@
-# JogoDaVelhaAngular
+# Jogo da Velha em Angular 13.
+@author: Juliano Sarnes Longo.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+
+## Objetivo
+
+O objetivo deste projeto é mostrar a implementação de um Jogo da Velha usando os recursos do Angular 13.
 
 ## Development server
 
